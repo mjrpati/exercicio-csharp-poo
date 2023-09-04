@@ -1,0 +1,15 @@
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/exercicio estoque poo.csproj.AssemblyReference.cache
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/exercicio estoque poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/exercicio estoque poo.AssemblyInfoInputs.cache
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/exercicio estoque poo.AssemblyInfo.cs
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/exercicio estoque poo.csproj.CoreCompileInputs.cache
+/home/pati/Documentos/csharp/exercicio estoque poo/bin/Debug/net7.0/exercicio estoque poo
+/home/pati/Documentos/csharp/exercicio estoque poo/bin/Debug/net7.0/exercicio estoque poo.deps.json
+/home/pati/Documentos/csharp/exercicio estoque poo/bin/Debug/net7.0/exercicio estoque poo.runtimeconfig.json
+/home/pati/Documentos/csharp/exercicio estoque poo/bin/Debug/net7.0/exercicio estoque poo.dll
+/home/pati/Documentos/csharp/exercicio estoque poo/bin/Debug/net7.0/exercicio estoque poo.pdb
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/exercicio estoque poo.dll
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/refint/exercicio estoque poo.dll
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/exercicio estoque poo.pdb
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/exercicio estoque poo.genruntimeconfig.cache
+/home/pati/Documentos/csharp/exercicio estoque poo/obj/Debug/net7.0/ref/exercicio estoque poo.dll
